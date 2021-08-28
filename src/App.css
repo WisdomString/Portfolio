@@ -4,7 +4,7 @@
   background-color: antiquewhite;
   display: flex;
   width: 100%;
-  height: 5%;
+  height: 100px;
 }
 
 .header_main_names_Vince,
@@ -17,10 +17,16 @@
 }
 .header_main_names_Vince {
   background-color: rgb(122, 122, 241);
+  position: absolute;
+  right: 0px;
 }
 .header_main_names_Banang {
   background-color: rgb(70, 250, 79);
+  position: absolute;
+  right: 90px;
 }
 .header_main_names_Tucal {
   background-color: rgb(236, 97, 97);
+  position: absolute;
+  right: 215px;
 }
