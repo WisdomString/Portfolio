@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function One() {
     return (
-        <div>
-            testing
-        </div>
+        <h1>
+            Portfolio
+        </h1>
     )
 }

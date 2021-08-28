@@ -1,6 +1,7 @@
 import './App.css';
 import One from './One';
 import Two from './Two';
+import OneH from './OneH';
 
 
 
@@ -8,6 +9,7 @@ function App() {
   return (
   <>
     <div><One></One></div> 
+    <div><OneH></OneH></div>
     <div><Two></Two></div>
   </>
     )
