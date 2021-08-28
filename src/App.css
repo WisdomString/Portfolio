@@ -1,1 +1,26 @@
+/* MAO NING CSS SA WHOLE-PAGE INDEX (App.js) */
+.header_main_names {
+  margin: 0;
+  background-color: antiquewhite;
+  display: flex;
+  width: 100%;
+  height: 5%;
+}
 
+.header_main_names_Vince,
+.header_main_names_Banang,
+.header_main_names_Tucal {
+  padding-top: 2px;
+  padding-right: 10px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+}
+.header_main_names_Vince {
+  background-color: rgb(122, 122, 241);
+}
+.header_main_names_Banang {
+  background-color: rgb(70, 250, 79);
+}
+.header_main_names_Tucal {
+  background-color: rgb(236, 97, 97);
+}

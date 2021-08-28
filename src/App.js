@@ -1,14 +1,23 @@
 import './App.css';
-import One from './One';
-import Two from './Two';
+import One_div from './One_div';
+import Two_div from './Two_div';
+import Three_div from './Three_div';
 
 
 
 function App() {
   return (
   <>
-    <div><One></One></div> 
-    <div><Two></Two></div>
+    <div class='header_main' name='header_main'>
+      <h1 class='header_main_names' name='header_main_names'>
+          <p class='header_main_names_Vince' name='header_main_names_Vince'>Vince</p> 
+          <p class='header_main_names_Banang' name='header_main_names_Banang'>Banang</p>
+          <p class='header_main_names_Tucal'  name='header_main_names_Tucal'>Tucal</p>
+      </h1>
+    </div>
+    <div><One_div></One_div></div>
+    <div><Two_div></Two_div></div>
+    <div><Three_div></Three_div></div>
   </>
     )
 }
