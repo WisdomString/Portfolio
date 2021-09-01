@@ -1,0 +1,28 @@
+:root {
+    font-size: 16px;
+    font-family: "Open Sans";
+    --text-primary: #b6b6b6;
+    --text-secondary: #ececec;
+    --bg-primary: #23232e;
+    --bg-secondary: #141418;
+    --transition-speed: 600ms;
+    
+  }
+  
+  .div_two_main {
+    color: black;
+    background-color: white;
+    margin-left: 90px;
+    margin-right: 10px;
+    padding: 0;
+    width: 100;
+  }
+  .two_title_header{
+      text-align: center;
+  }
+  @media only screen and (max-width: 600px) {
+    .div_two_main {
+margin-left: 10px;
+margin-right: 10px;
+    }
+  }
