@@ -1,28 +1,43 @@
 :root {
-    font-size: 16px;
-    font-family: "Open Sans";
-    --text-primary: #b6b6b6;
-    --text-secondary: #ececec;
-    --bg-primary: #23232e;
-    --bg-secondary: #141418;
-    --transition-speed: 600ms;
-    
-  }
-  
+  font-size: 16px;
+  font-family: "Open Sans";
+  --text-primary: #b6b6b6;
+  --text-secondary: #ececec;
+  --bg-primary: #23232e;
+  --bg-secondary: #141418;
+  --transition-speed: 600ms;
+}
+
+.div_one_main {
+  color: black;
+  background-color: white;
+  margin-left: 90px;
+  margin-right: 10px;
+  padding: 0;
+  width: 100;
+}
+.one_title_header {
+  text-align: center;
+}
+@media only screen and (max-width: 600px) {
   .div_one_main {
-    color: black;
-    background-color: white;
-    margin-left: 90px;
+    margin-left: 10px;
     margin-right: 10px;
-    padding: 0;
-    width: 100;
   }
-  .one_title_header{
-      text-align: center;
-  }
-  @media only screen and (max-width: 600px) {
-    .div_one_main {
-margin-left: 10px;
-margin-right: 10px;
-    }
-  }
+}
+
+.webcontainer {
+  margin: 0;
+  padding: 0;
+}
+.webcontainer {
+  height: 100vh;
+  font-family: "Poppins";
+}
+
+.webgl {
+  position: fixed;
+  top: 0;
+  left: 0;
+  outline: none;
+}
