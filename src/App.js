@@ -58,7 +58,7 @@ const App = () =>{return(<Router>
             aria-hidden="true"
             focusable="false"
             data-prefix="fad"
-            data-icon="space-shuttle"
+            data-icon="ambulance"
             role="img"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 640 512"
