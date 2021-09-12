@@ -25,19 +25,3 @@
     margin-right: 10px;
   }
 }
-
-.webcontainer {
-  margin: 0;
-  padding: 0;
-}
-.webcontainer {
-  height: 100vh;
-  font-family: "Poppins";
-}
-
-.webgl {
-  position: fixed;
-  top: 0;
-  left: 0;
-  outline: none;
-}
