@@ -12,7 +12,7 @@ export default function Three_div() {
             <p>Anim labore ad officia eiusmod. Incididunt ex consequat velit elit id voluptate ipsum elit commodo veniam. Id nulla velit tempor reprehenderit. Ullamco eiusmod amet qui non.</p>
             
             <i class="fas fa-space-shuttle">icon</i>
-        
+            <i src="logo.svg">test</i>
         </div>
         
     </>
