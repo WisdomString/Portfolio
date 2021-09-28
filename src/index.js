@@ -1,17 +1,22 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Footer from './scripts/footer.js'
+import Navbar from './scripts/navbar.js'
 
-import App from './App';
-
-
+import './css/main.css'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Content from './scripts/content.js'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />  
 
+    <Navbar></Navbar>
+    <Content></Content>
+    
+    <Footer></Footer>
+    
   </React.StrictMode>,
   document.getElementById('root')
 );
 
-// ayaw diri pag edit (dili ni sya para sa index) didto mo sa App.js pag butang ug tags
-// mga brad karing "<App />" mao ni ang DOM renderer
+//always capital ang first letter

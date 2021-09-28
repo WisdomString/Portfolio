@@ -1,0 +1,41 @@
+:root {
+  --text-primary: #b6b6b6;
+  --text-secondary: #ececec;
+  --bg-primary: #23232e;
+  --bg-secondary: #141418;
+
+  background-color: var(--bg-secondary);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+.Navbar {
+  font-family: "Gemunu Libre", sans-serif;
+  background-color: var(--bg-secondary);
+}
+.brown {
+  background-color: var(--bg-primary);
+  font-family: "Gemunu Libre", sans-serif;
+  color: var(--text-primary);
+  font-size: 100%;
+}
+.Footer_text {
+  font-family: "Gemunu Libre", sans-serif;
+  text-align: center;
+  background-color: var(--bg-secondary);
+  color: var(--text-secondary);
+  padding: 20px;
+}
+
+.navbar-dark .navbar-toggler {
+  border: none;
+}
+.dropdown-toggle {
+  text-align: center;
+}
+.Side_bar_container {
+  padding: 20px;
+  border-color: 1px, seashell;
+}
