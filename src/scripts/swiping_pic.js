@@ -9,7 +9,7 @@ function swiping_pic() {
         <>
         <div className="Resize_Carousel">
         <Carousel fade className="Carousel_container">
-  <Carousel.Item>
+  <Carousel.Item className="Carousel_items">
     <img 
       className="d-block w-100"
       src={Pic2}
@@ -22,7 +22,7 @@ function swiping_pic() {
     </Carousel.Caption>
   </Carousel.Item>
   
-  <Carousel.Item>
+  <Carousel.Item className="Carousel_items">
     <img
       className="d-block w-100"
       src={Pic3}
@@ -35,7 +35,7 @@ function swiping_pic() {
     </Carousel.Caption>
   </Carousel.Item>
   
-  <Carousel.Item>
+  <Carousel.Item className="Carousel_items">
     <img 
       className="d-block w-100"
       src={Pic1}
