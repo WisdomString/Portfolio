@@ -26,12 +26,13 @@ function navbar() {
     <Nav>
       
       
-      <NavDropdown title="Dropdown" id="collasible-nav-dropdown">
-        <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
-        <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
-        <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
+      <NavDropdown title="More Info About" id="collasible-nav-dropdown">
+        <NavDropdown.Item href="#action/3.1-sorry still no page yet">Haniel</NavDropdown.Item>
+        <NavDropdown.Item href="#action/3.2-sorry still no page yet">Nephilim</NavDropdown.Item>
+        <NavDropdown.Item href="#action/3.3-sorry still no page yet">Dullah</NavDropdown.Item>
+        <NavDropdown.Item href="#action/3.3-sorry still no page yet">Diana</NavDropdown.Item>
         <NavDropdown.Divider />
-        <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
+        <NavDropdown.Item href="#action/3.4-sorry still no page yet">CLP and Wisdom-Cube</NavDropdown.Item>
       </NavDropdown>
    
     </Nav>
