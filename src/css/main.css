@@ -72,19 +72,19 @@ body::-webkit-scrollbar-thumb {
   border: 2px solid rgb(151, 2, 151);
 }
 .Haniel_space {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 .Nephilim_space {
-  padding-bottom: 30px;
+  padding-bottom: 100px;
 }
 
 .Dullah_space {
-  padding-bottom: 30px;
+  padding-bottom: 100px;
 }
 
 .Dianna_space {
-  padding-bottom: 30px;
+  padding-bottom: 100px;
 }
 
 .carousel-control-next:focus,
