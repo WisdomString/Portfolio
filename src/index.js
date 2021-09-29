@@ -7,14 +7,15 @@ import './css/main.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Content from './scripts/content.js'
 
+
 ReactDOM.render(
   <React.StrictMode>
-
+  
     <Navbar></Navbar>
     <Content></Content>
     
     <Footer></Footer>
-    
+   
   </React.StrictMode>,
   document.getElementById('root')
 );

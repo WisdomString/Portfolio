@@ -30,9 +30,10 @@ function navbar() {
         <NavDropdown.Item href="#action/3.1-sorry still no page yet">Haniel</NavDropdown.Item>
         <NavDropdown.Item href="#action/3.2-sorry still no page yet">Nephilim</NavDropdown.Item>
         <NavDropdown.Item href="#action/3.3-sorry still no page yet">Dullah</NavDropdown.Item>
-        <NavDropdown.Item href="#action/3.3-sorry still no page yet">Diana</NavDropdown.Item>
+        <NavDropdown.Item href="#action/3.4-sorry still no page yet">Diana</NavDropdown.Item>
         <NavDropdown.Divider />
-        <NavDropdown.Item href="#action/3.4-sorry still no page yet">CLP and Wisdom-Cube</NavDropdown.Item>
+        <NavDropdown.Item href="#action/3.5-sorry still no page yet">Discord Mods</NavDropdown.Item>
+        <NavDropdown.Item href="#action/3.6-sorry still no page yet">CLP and Wisdom-Cube</NavDropdown.Item>
       </NavDropdown>
    
     </Nav>

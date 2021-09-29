@@ -1,15 +1,18 @@
-import React from 'react'
 import Carousel from 'react-bootstrap/Carousel'
 import Pic1 from '../components/pic1.jpg'
 import Pic2 from '../components/pic5.jpg'
 import Pic3 from '../components/pic4.jpg'
 
+
+
 function swiping_pic() {
+  
+
     return (
         <>
         <div className="Resize_Carousel">
-        <Carousel fade className="Carousel_container">
-  <Carousel.Item className="Carousel_items">
+        <Carousel fade className="Carousel_container" >
+  <Carousel.Item className="Carousel_items" >
     <img 
       className="d-block w-100"
       src={Pic2}
@@ -18,11 +21,10 @@ function swiping_pic() {
       
     />
     <Carousel.Caption>
-   
     </Carousel.Caption>
   </Carousel.Item>
   
-  <Carousel.Item className="Carousel_items">
+  <Carousel.Item className="Carousel_items" >
     <img
       className="d-block w-100"
       src={Pic3}
@@ -35,7 +37,7 @@ function swiping_pic() {
     </Carousel.Caption>
   </Carousel.Item>
   
-  <Carousel.Item className="Carousel_items">
+  <Carousel.Item className="Carousel_items" >
     <img 
       className="d-block w-100"
       src={Pic1}
