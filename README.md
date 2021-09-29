@@ -1,4 +1,4 @@
-# OK na meg, gana na
+# This is the CLP react project im starting (don't know when will it be finished)
 
 ## Available Scripts
 
