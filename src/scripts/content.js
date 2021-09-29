@@ -3,7 +3,7 @@ import Window1 from './window1.js'
 import '../css/main.css'
 function content() {
     return (
-        <div className="brown">
+        <div className="Window1_holder">
             <Window1></Window1>
         </div>
     )

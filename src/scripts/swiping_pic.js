@@ -7,12 +7,15 @@ import Pic3 from '../components/pic4.jpg'
 function swiping_pic() {
     return (
         <>
+        <div className="Resize_Carousel">
         <Carousel fade className="Carousel_container">
   <Carousel.Item>
     <img 
       className="d-block w-100"
       src={Pic2}
       alt="First slide"
+      
+      
     />
     <Carousel.Caption>
    
@@ -24,6 +27,7 @@ function swiping_pic() {
       className="d-block w-100"
       src={Pic3}
       alt="Second slide"
+      
     />
 
     <Carousel.Caption>
@@ -36,6 +40,7 @@ function swiping_pic() {
       className="d-block w-100"
       src={Pic1}
       alt="Third slide"
+      
     />
     <Carousel.Caption>
       
@@ -43,6 +48,7 @@ function swiping_pic() {
   </Carousel.Item>
 
 </Carousel>
+</div>
         </>
     )
 }
