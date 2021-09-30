@@ -4,6 +4,9 @@ import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 import Swiping_pic from'./swiping_pic';
 import hanielpf from '../components/haneil_pf_400x400.jpg'
+import nephipf from '../components/nephi_pf_400x400.jpg'
+import dullahpf from '../components/dulla_pf_400x400.jpg'
+
 
 function window1() {
     return (
@@ -20,11 +23,20 @@ function window1() {
   <Row>
     <Col  className="Side_bar_container">
     <div className="Side_bar_column_Haniel"> 
-    <div className="Haniel_pf_container">
+    <div className="clptalents_pf_container">
     <div className="Outline_Hover">
-    <img src={hanielpf} width="350" height="350" className="Haniel_pf_img"></img>
+    <img src={hanielpf} width="350" height="350" className="clptalents_pf_img"></img>
     </div>
     </div>
+
+    <div className="text_below_imgpf_container">
+    
+    <h1 className="text_below_imgpf_text">
+      Haniel
+    </h1>
+    
+    </div>
+
      </div>
     </Col>
     
@@ -83,15 +95,23 @@ function window1() {
 <Row>
     <Col  className="Side_bar_container">
     <div className="Side_bar_column_Haniel"> 
-    <div className="Haniel_pf_container">
+    <div className="clptalents_pf_container">
     <div className="Outline_Hover">
-    <img src={hanielpf} width="350" height="350" className="Haniel_pf_img"></img>
+    <img src={nephipf} width="350" height="350" className="clptalents_pf_img"></img>
     </div>
     </div>
-     </div>
+    <div className="text_below_imgpf_container">
+    
+    <h1 className="text_below_imgpf_text">
+      Nephilim
+    </h1>
+    
+    </div>
+    
+    </div>
     </Col>
     
-    <Col xs={6} fluid>
+    <Col xs={6} fluid className="content_text">
         <p>2 of 3 (wider also the main content)
         Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
         n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con
@@ -146,11 +166,19 @@ function window1() {
 <Row>
     <Col  className="Side_bar_container">
     <div className="Side_bar_column_Haniel"> 
-    <div className="Haniel_pf_container">
+    <div className="clptalents_pf_container">
     <div className="Outline_Hover">
-    <img src={hanielpf} width="350" height="350" className="Haniel_pf_img"></img>
+    <img src={dullahpf} width="350" height="350" className="clptalents_pf_img"></img>
     </div>
     </div>
+    <div className="text_below_imgpf_container">
+    
+    <h1 className="text_below_imgpf_text">
+      Dullah
+    </h1>
+    
+    </div>
+    
      </div>
     </Col>
     
@@ -208,11 +236,20 @@ function window1() {
 <Row>
     <Col  className="Side_bar_container">
     <div className="Side_bar_column_Haniel"> 
-    <div className="Haniel_pf_container">
+    <div className="clptalents_pf_container">
     <div className="Outline_Hover">
-    <img src={hanielpf} width="350" height="350" className="Haniel_pf_img"></img>
+    <img src={hanielpf} width="350" height="350" className="clptalents_pf_img"></img>
     </div>
     </div>
+
+    <div className="text_below_imgpf_container">
+    
+    <h1 className="text_below_imgpf_text">
+      Dianna
+    </h1>
+    
+    </div>
+
      </div>
     </Col>
     
@@ -263,7 +300,10 @@ function window1() {
     
   </Row>
 </Container>
+
+
 </div>
+<div className="Footer_text"><p className="footer_p">All Rights to CLP</p></div>
         </>  
   )
 }

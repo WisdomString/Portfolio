@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Footer from './scripts/footer.js'
+//import Footer from './scripts/footer.js'
 import Navbar from './scripts/navbar.js'
 
 import './css/main.css'
@@ -14,7 +14,7 @@ ReactDOM.render(
     <Navbar></Navbar>
     <Content></Content>
     
-    <Footer></Footer>
+    
    
   </React.StrictMode>,
   document.getElementById('root')
