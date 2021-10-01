@@ -90,18 +90,20 @@ body::-webkit-scrollbar-thumb {
 .Haniel_space {
   padding-top: 100px;
   padding-bottom: 100px;
-  width: auto;
   margin: 0;
 }
 .Nephilim_space {
+  padding-top: 100px;
   padding-bottom: 100px;
 }
 
 .Dullah_space {
+  padding-top: 100px;
   padding-bottom: 100px;
 }
 
 .Dianna_space {
+  padding-top: 100px;
   padding-bottom: 100px;
 }
 
@@ -114,8 +116,6 @@ body::-webkit-scrollbar-thumb {
 /* medium screen */
 @media only screen and (max-width: 600px) {
   .Carousel_items > img {
-    margin: 0;
-
     border: 2px solid rgb(151, 2, 151);
   }
 }
@@ -180,6 +180,16 @@ body::-webkit-scrollbar-thumb {
   .col-6 {
     width: 100% !important;
   }
+  .Haniel_space,
+  .Nephilim_space,
+  .Dullah_space,
+  .Dianna_space {
+    padding-top: 340px;
+    padding-bottom: 100px;
+  }
+  .Carousel_container {
+    transform: translateY(40%);
+  }
 }
 
 @media only screen and (max-width: 991px) {
@@ -197,6 +207,13 @@ body::-webkit-scrollbar-thumb {
   }
   .col-6 {
     width: 100% !important;
+  }
+  .Haniel_space,
+  .Nephilim_space,
+  .Dullah_space,
+  .Dianna_space {
+    padding-top: 340px;
+    padding-bottom: 100px;
   }
 }
 
@@ -216,4 +233,11 @@ body::-webkit-scrollbar-thumb {
   .col-6 {
     width: 100% !important;
   }
+}
+
+.haniel_slide,
+.nephilim_slide,
+.dullah_slide,
+.dianna_slide {
+  text-decoration: none;
 }

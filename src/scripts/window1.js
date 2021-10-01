@@ -6,6 +6,7 @@ import Swiping_pic from'./swiping_pic';
 import hanielpf from '../components/haneil_pf_400x400.jpg'
 import nephipf from '../components/nephi_pf_400x400.jpg'
 import dullahpf from '../components/dulla_pf_400x400.jpg'
+import diannapf from '../components/dianna_pf_400x400.jpg'
 
 
 function window1() {
@@ -18,7 +19,7 @@ function window1() {
         </Container>
 
 
-<div className="Haniel_space">
+<div className="Haniel_space" id="haniel">
     <Container className="hi">
   <Row>
     <Col  className="Side_bar_container">
@@ -41,6 +42,7 @@ function window1() {
     </Col>
     
     <Col xs={6} fluid>
+    <h2> this content is for Haniel </h2>
         <p>2 of 3 (wider also the main content)
         Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
         n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con
@@ -90,7 +92,7 @@ function window1() {
 </div>
 
 
-<div className="Nephilim_space">
+<div className="Nephilim_space" id="nephilim">
 <Container className="hi">
 <Row>
     <Col  className="Side_bar_container">
@@ -112,6 +114,7 @@ function window1() {
     </Col>
     
     <Col xs={6} fluid className="content_text">
+    <h2> this content is for Nephilim </h2>
         <p>2 of 3 (wider also the main content)
         Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
         n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con
@@ -161,7 +164,7 @@ function window1() {
 </div>
 
 
-<div className="Dullah_space">
+<div className="Dullah_space" id="dullah">
 <Container className="hi">
 <Row>
     <Col  className="Side_bar_container">
@@ -183,6 +186,8 @@ function window1() {
     </Col>
     
     <Col xs={6} fluid>
+
+    <h2> this content is for Dullah </h2>
         <p>2 of 3 (wider also the main content)
         Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
         n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con
@@ -231,14 +236,14 @@ function window1() {
 </Container>
 </div>
 
-<div className="Dianna_space">
+<div className="Dianna_space" id="dianna">
 <Container className="hi">
 <Row>
     <Col  className="Side_bar_container">
     <div className="Side_bar_column_Haniel"> 
     <div className="clptalents_pf_container">
     <div className="Outline_Hover">
-    <img src={hanielpf} width="350" height="350" className="clptalents_pf_img"></img>
+    <img src={diannapf} width="350" height="350" className="clptalents_pf_img"></img>
     </div>
     </div>
 
@@ -254,6 +259,7 @@ function window1() {
     </Col>
     
     <Col xs={6} fluid>
+      <h2> this content is for Dianna </h2>
         <p>2 of 3 (wider also the main content)
         Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
         n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con

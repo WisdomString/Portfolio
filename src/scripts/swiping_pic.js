@@ -10,7 +10,7 @@ function swiping_pic() {
 
     return (
         <>
-        <div className="Resize_Carousel">
+        <div className="Resize_Carousel" id="re_ca">
         <Carousel fade className="Carousel_container" >
   <Carousel.Item className="Carousel_items" >
     <img 
