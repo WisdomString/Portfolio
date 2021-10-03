@@ -10,7 +10,12 @@ import {Link} from 'react-scroll'
 import '../scripts/window1'
 
 function navbar() {
-  
+  const open_discord_link = () =>{
+    window.open("https://t.co/VPfL5POzIU?amp=1")
+  }
+  const wisdom_twitter_link = () =>{
+    window.open("https://twitter.com/wisdom_box")
+  }
     return (
         <>
         
@@ -33,7 +38,7 @@ function navbar() {
     <Nav>
       
       
-      <NavDropdown title="More Info About" id="collasible-nav-dropdown" className="nav_dropdown">
+      <NavDropdown title="About" id="collasible-nav-dropdown" className="nav_dropdown">
         <Link className="haniel_slide" to="haniel" smooth={true} duration={1000}>
         <NavDropdown.Item href="#action/3.1-sorry still no page yet">Haniel</NavDropdown.Item>
         </Link>
@@ -51,9 +56,9 @@ function navbar() {
         </Link>
         <NavDropdown.Divider />
         
-        <NavDropdown.Item href="#action/3.5-sorry still no page yet">Discord Mods</NavDropdown.Item>
+        <NavDropdown.Item href="#action/3.5-sorry still no page yet"onClick={open_discord_link}>Cresent Link Discord</NavDropdown.Item>
         
-        <NavDropdown.Item href="#action/3.6-sorry still no page yet">CLP and Wisdom-Cube</NavDropdown.Item>
+        <NavDropdown.Item href="#action/3.6-sorry still no page yet"onClick={wisdom_twitter_link}>FAN-Developer: Wisdom-Cube</NavDropdown.Item>
       
       </NavDropdown>
    

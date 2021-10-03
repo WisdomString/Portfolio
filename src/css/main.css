@@ -69,6 +69,8 @@ body {
 }
 .carousel {
   box-shadow: 0 0 1em 0 var(--clr-neon);
+  text-align: center;
+  padding: auto;
 }
 
 body::-webkit-scrollbar {
@@ -86,6 +88,18 @@ body::-webkit-scrollbar-thumb {
 .Carousel_items > img {
   border-radius: 10px;
 }
+.cresent_link_paragraph {
+  padding-top: 100px;
+  display: flex;
+  text-align: center;
+}
+
+.svg_twitter {
+  width: 2rem;
+  height: 2rem;
+  margin: 0 0.5rem;
+  color: white;
+}
 
 .Haniel_space {
   padding-top: 100px;
@@ -94,7 +108,7 @@ body::-webkit-scrollbar-thumb {
 }
 .Nephilim_space {
   padding-top: 100px;
-  padding-bottom: 100px;
+  padding-bottom: 200px;
 }
 
 .Dullah_space {
@@ -190,6 +204,16 @@ body::-webkit-scrollbar-thumb {
   .Carousel_container {
     transform: translateY(40%);
   }
+  .text_below_imgpf_text {
+    font-size: 40px;
+  }
+  .svg_twitter {
+    width: 2rem;
+    height: 2rem;
+    margin: 0 0.5rem;
+    color: white;
+    transform: translateY(-3px);
+  }
 }
 
 @media only screen and (max-width: 991px) {
@@ -240,4 +264,7 @@ body::-webkit-scrollbar-thumb {
 .dullah_slide,
 .dianna_slide {
   text-decoration: none;
+}
+.Gold {
+  color: yellow;
 }
