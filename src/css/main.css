@@ -90,6 +90,7 @@ body::-webkit-scrollbar-thumb {
 }
 .cresent_link_paragraph {
   padding-top: 100px;
+  padding-bottom: 50px;
   display: flex;
   text-align: center;
 }
@@ -105,15 +106,20 @@ body::-webkit-scrollbar-thumb {
   padding-top: 100px;
   padding-bottom: 100px;
   margin: 0;
+  background-color: var(--bg-secondary);
+  box-shadow: inset 0 0 0.5em 0 var(--clr-neon), 0 0 0.5em 0 var(--clr-neon);
 }
 .Nephilim_space {
   padding-top: 100px;
   padding-bottom: 200px;
+  box-shadow: inset 0 0 0.5em 0 var(--clr-neon), 0 0 0.5em 0 var(--clr-neon);
 }
 
 .Dullah_space {
   padding-top: 100px;
   padding-bottom: 100px;
+  background-color: var(--bg-secondary);
+  box-shadow: inset 0 0 0.5em 0 var(--clr-neon), 0 0 0.5em 0 var(--clr-neon);
 }
 
 .Dianna_space {
@@ -265,6 +271,68 @@ body::-webkit-scrollbar-thumb {
 .dianna_slide {
   text-decoration: none;
 }
-.Gold {
+.Yellow {
   color: yellow;
+}
+.span_personality,
+.span_Lore {
+  display: flex;
+  width: auto;
+  justify-content: center;
+  color: rgb(232, 58, 255);
+}
+.p_personality,
+.p_Lore {
+  display: flex;
+  width: auto;
+  text-align: left;
+  font-size: 20px;
+}
+.bottom_details_and_info {
+  display: flex;
+}
+.details_and_info {
+  padding: 30px;
+}
+@media only screen and (max-width: 1224px) {
+  .bottom_details_and_info {
+    display: block;
+  }
+  .details_and_info {
+    padding: auto;
+    justify-content: center;
+    display: inline-flex;
+  }
+}
+.forbidden {
+  opacity: 0;
+  transition: 1s;
+  color: red;
+  text-transform: uppercase;
+}
+.forbidden:hover {
+  opacity: 1;
+}
+.svg_twitter_i,
+.svg_yt_i {
+  width: 2rem;
+  height: 2rem;
+  margin: 0 0.5rem;
+}
+.svg_twitter_i {
+  color: rgb(0, 183, 255);
+}
+.svg_yt_i {
+  color: red;
+}
+.law_tw_link {
+  font-size: 15px;
+  color: rgb(0, 183, 255);
+}
+.alph_tw_link {
+  color: rgb(0, 183, 255);
+}
+.CLP_text {
+  font-size: 16px;
+  color: var(--clr-neon);
 }

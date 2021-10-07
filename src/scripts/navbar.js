@@ -40,25 +40,25 @@ function navbar() {
       
       <NavDropdown title="About" id="collasible-nav-dropdown" className="nav_dropdown">
         <Link className="haniel_slide" to="haniel" smooth={true} duration={1000}>
-        <NavDropdown.Item href="#action/3.1-sorry still no page yet">Haniel</NavDropdown.Item>
+        <NavDropdown.Item href="About-Haniel">Haniel</NavDropdown.Item>
         </Link>
 
         <Link className="nephilim_slide" to="nephilim" smooth={true} spy={true} duration={1000}>
-        <NavDropdown.Item href="#action/3.2-sorry still no page yet">Nephilim</NavDropdown.Item>
+        <NavDropdown.Item href="About-Nephilim">Nephilim</NavDropdown.Item>
         </Link>
 
         <Link className="dullah_slide" to="dullah" smooth={true} duration={1000}>
-        <NavDropdown.Item href="#action/3.3-sorry still no page yet">Dullah</NavDropdown.Item>
+        <NavDropdown.Item href="About-Dulla">Dulla</NavDropdown.Item>
         </Link>
 
         <Link className="dianna_slide" to="dianna" smooth={true} duration={1000}>
-        <NavDropdown.Item href="#action/3.4-sorry still no page yet">Diana</NavDropdown.Item>
+        <NavDropdown.Item href="About-Diana">Diana</NavDropdown.Item>
         </Link>
         <NavDropdown.Divider />
         
-        <NavDropdown.Item href="#action/3.5-sorry still no page yet"onClick={open_discord_link}>Cresent Link Discord</NavDropdown.Item>
+        <NavDropdown.Item href=""onClick={open_discord_link}>Cresent Link Discord</NavDropdown.Item>
         
-        <NavDropdown.Item href="#action/3.6-sorry still no page yet"onClick={wisdom_twitter_link}>FAN-Developer: Wisdom-Cube</NavDropdown.Item>
+        <NavDropdown.Item href=""onClick={wisdom_twitter_link}>FAN-Developer: Wisdom-Cube</NavDropdown.Item>
       
       </NavDropdown>
    

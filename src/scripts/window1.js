@@ -41,7 +41,12 @@ function window1() {
   const open_twitter_dulla =() => {
     window.open("https://twitter.com/DullaGanCeann")
   }
-
+  const law_tw =() => {
+    window.open("https://twitter.com/LawNielleArt")
+  }
+  const alph_tw =() => {
+    window.open("https://twitter.com/Alph_Alpha_Alph")
+  }
     return (
         <>
         <Container fluid>
@@ -110,52 +115,116 @@ The objective of this project is to accelerate the beginning
     </Col>
     
     <Col xs={6} fluid>
-    <h2> Hanie </h2>
-        <p>2 of 3 (wider also the main content)
-        Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
-        n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con
-        sequat anim commodo amet. Ut est id nulla non eiusmod exercitation quis id veniam exercitation amet su
-        nt non. Est in esse consequat ad in deserunt quis sunt qui cupidatat est velit. Lorem irure laboris su
-        nt ut et labore voluptate nisi exercitation ullamco et laborum. Dolor elit dolor esse esse non.
-        </p>
-        <p>2 of 3 (wider also the main content)
-        Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
-        n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con
-        sequat anim commodo amet. Ut est id nulla non eiusmod exercitation quis id veniam exercitation amet su
-        nt non. Est in esse consequat ad in deserunt quis sunt qui cupidatat est velit. Lorem irure laboris su
-        nt ut et labore voluptate nisi exercitation ullamco et laborum. Dolor elit dolor esse esse non.
-        </p>
-        <p>2 of 3 (wider also the main content)
-        Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
-        n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con
-        sequat anim commodo amet. Ut est id nulla non eiusmod exercitation quis id veniam exercitation amet su
-        nt non. Est in esse consequat ad in deserunt quis sunt qui cupidatat est velit. Lorem irure laboris su
-        nt ut et labore voluptate nisi exercitation ullamco et laborum. Dolor elit dolor esse esse non.
-        </p>
-        <p>2 of 3 (wider also the main content)
-        Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
-        n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con
-        sequat anim commodo amet. Ut est id nulla non eiusmod exercitation quis id veniam exercitation amet su
-        nt non. Est in esse consequat ad in deserunt quis sunt qui cupidatat est velit. Lorem irure laboris su
-        nt ut et labore voluptate nisi exercitation ullamco et laborum. Dolor elit dolor esse esse non.
-        </p>
-        <p>2 of 3 (wider also the main content)
-        Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
-        n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con
-        sequat anim commodo amet. Ut est id nulla non eiusmod exercitation quis id veniam exercitation amet su
-        nt non. Est in esse consequat ad in deserunt quis sunt qui cupidatat est velit. Lorem irure laboris su
-        nt ut et labore voluptate nisi exercitation ullamco et laborum. Dolor elit dolor esse esse non.
-        </p>
-        <p>2 of 3 (wider also the main content)
-        Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
-        n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con
-        sequat anim commodo amet. Ut est id nulla non eiusmod exercitation quis id veniam exercitation amet su
-        nt non. Est in esse consequat ad in deserunt quis sunt qui cupidatat est velit. Lorem irure laboris su
-        nt ut et labore voluptate nisi exercitation ullamco et laborum. Dolor elit dolor esse esse non.
-        </p>
-    </Col>
     
+    
+        <span className="span_personality"> <h2>PERSONALITY</h2></span>
+          <p className="p_personality">
+             She is a very cute  self-proclaimed "seiso" tenshi who likes to do whatever she wants.
+              She likes to eat weird food combos just like "Sinigang" (a filipino food) with ketchup 
+              or Adobo (another filipino food) with hotdog and soup. She also loves to play different games.
+              She's mostly a boomer, and occasionally observed as a yaoi fan.
+              She also burps and hics a lot.
+          </p>
+        
+          <span className="span_Lore"> <h2>LORE</h2></span>
+          <p className="p_Lore">
+             Haniel was one of the Seven Archangels, sometimes referred to as “the great princes and princesses” of Heaven.
+              Much like Lucifer, Haniel has fallen from God’s Grace. What many don’t know is that Haniel has a sister named Shifa,
+              who is an acting reaper and the farthest thing from a servant of God.
+              No matter how devout Haniel tried to be, she could not be the embodiment of Joy with loneliness clawing away at her.
+              In order to be reunited with her sister, who never had a place in heaven,
+              Haniel courageously committed blasphemy, guided by her love of her sister,
+              in order to be cast out of the Holy Kingdom. By calling The One Most High an “Idiot,”
+              she gave up her angelic status and was sent into a world outside of Heaven. 
+          </p>
+          <p className="p_Lore">
+              Underneath the skies of a strange land, Haniel had to learn the rules of this new world.
+              Her body was not that of an angel’s anymore, though she did retain a few angelic features such as her halo and wings.
+              No longer an angel, she was soon  met with human emotions and afflictions, such as hunger. 
+              Unfortunately, in order to survive in this new world one must eat, and in order to eat one must work.
+              For the sake of survival, Haniel became a VTuber.
+          </p> 
+    </Col>
+    <Container className="bottom_details_and_info" fluid>
+      
+          <Col className="details_and_info">
+            <p>
+              PERSONAL DETAILS:   <br></br>
+              Name:     Haniel    <br></br> 
+              Nickname:  Hani     <br></br>
+              Age:       n/a      <br></br>
+              Gender:   Female    <br></br> 
+              Birthday: Nov 22    <br></br>
+              Height:   49ft      <br></br>
+            </p>
+          </Col>
+
+          <Col className="details_and_info">
+            <p>
+            BASIC DETAILS:                            <br></br>
+              Debut date: <span className="Yellow">05/29/2021</span>                  <br></br>
+              MAMA: <span className="law_tw_link" onClick={law_tw}>   @law#7789NielleArt </span> <br></br>
+              PAPA: <span className="alph_tw_link" onClick={alph_tw}> @Alph_Alpha_Alph   </span> <br></br>
+              Affiliation:<br></br>
+               <span className="CLP_text">Crescent Link Productions</span>  <br></br>
+            </p>
+          </Col>
+
+          <Col className="details_and_info">
+             <p>
+              LIKES:                       <br></br>
+               Spaghetti                   <br></br>
+               Weird food combos           <br></br>
+               Sleep                       <br></br>
+               Learning new skills         <br></br>
+               Reading manga/manhwa/manhua <br></br>
+               <span className="forbidden">yuri AND yaoi</span>    <br></br>
+              </p>
+          </Col>
+
+          <Col className="details_and_info">
+            <p>
+               DISLIKES:                      <br></br>
+               Gore                           <br></br>
+               Toxic enemies in games         <br></br>
+               Art block                      <br></br>
+               Chocolate                      <br></br>
+               Looking up to talk to tall ppl <br></br>
+               CS-ing in league               <br></br>
+            </p>
+          </Col>
+
+          <Col className="details_and_info">
+            <p>
+              TWITTER HASHTAGS:      <br></br>
+                Live:   #HaniLIVE    <br></br>
+                Music:  #HaniTunes   <br></br>
+                Fanart: #HaniHaven   <br></br>
+                Fan-name: #Hanies    <br></br>
+            </p>
+          </Col>
+
+          <Col className="details_and_info">
+            <p>
+              SOCIAL MEDIA:  <br></br>
+              <span  onClick={open_twitter_haniel}>
+               <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" className="svg_twitter_i"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z" class=""></path></svg>
+                Twitter 
+              </span>
+               
+                 <br></br>
+
+              <span  onClick={open_yt_haniel}>
+               <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="youtube" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" className="svg_yt_i"><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z" class=""></path></svg>
+                Youtube  
+              </span>
+            </p>
+          </Col>
+
+        </Container>
   </Row>
+
+  
 </Container>
 </div>
 
@@ -282,7 +351,7 @@ The objective of this project is to accelerate the beginning
     
     <Col xs={6} fluid>
 
-    <h2> Dullah Gan Ceann</h2>
+    <h2> Dulla Gan Ceann</h2>
         <p>2 of 3 (wider also the main content)
         Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
         n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con
@@ -370,7 +439,7 @@ The objective of this project is to accelerate the beginning
     
     <Col xs={6} fluid>
       <h2> Diana Yeou</h2>
-      <h4> no, i'm not gonna pee on your bed.<br></br> (Based on Youtube-About section)  </h4>
+      <h4> ... </h4>
         <p className="Yellow">
           Debut Stream in October 9
         </p>
@@ -382,7 +451,7 @@ The objective of this project is to accelerate the beginning
 
 
 </div>
-<div className="Footer_text"><p className="footer_p">All Rights to CLP</p></div>
+<div className="Footer_text"><p className="footer_p">All Rights to CRESCENT LINK</p></div>
         </>  
   )
 }
