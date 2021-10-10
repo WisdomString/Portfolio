@@ -325,10 +325,7 @@ body::-webkit-scrollbar-thumb {
 .svg_yt_i {
   color: red;
 }
-.law_tw_link {
-  font-size: 15px;
-  color: rgb(0, 183, 255);
-}
+.law_tw_link,
 .alph_tw_link {
   color: rgb(0, 183, 255);
 }

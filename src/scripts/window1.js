@@ -47,6 +47,9 @@ function window1() {
   const alph_tw =() => {
     window.open("https://twitter.com/Alph_Alpha_Alph")
   }
+  const kurase_tw =() => {
+    window.open("https://twitter.com/Kurase07")
+  }
     return (
         <>
         <Container fluid>
@@ -161,9 +164,9 @@ The objective of this project is to accelerate the beginning
 
           <Col className="details_and_info">
             <p>
-            BASIC DETAILS:                            <br></br>
-              Debut date: <span className="Yellow">05/29/2021</span>                  <br></br>
-              MAMA: <span className="law_tw_link" onClick={law_tw}>   @law#7789NielleArt </span> <br></br>
+            BASIC DETAILS:                                                                       <br></br>
+              Debut date: <span className="Yellow">05/29/2021</span>                             <br></br>
+              MAMA: <span className="law_tw_link" onClick={law_tw}>   @LawNielleArt      </span> <br></br>
               PAPA: <span className="alph_tw_link" onClick={alph_tw}> @Alph_Alpha_Alph   </span> <br></br>
               Affiliation:<br></br>
                <span className="CLP_text">Crescent Link Productions</span>  <br></br>
@@ -435,20 +438,120 @@ The objective of this project is to accelerate the beginning
     </div>
 
      </div>
-    </Col>
+     </Col>
     
     <Col xs={6} fluid>
-      <h2> Diana Yeou</h2>
-      <h4> ... </h4>
-        <p className="Yellow">
-          Debut Stream in October 9
-        </p>
-       
-    </Col>
     
-  </Row>
-</Container>
+    
+        <span className="span_personality"> <h2>PERSONALITY</h2></span>
+          <p className="p_personality">
+             (...)
+          </p>
+        
+          <span className="span_Lore"> <h2>LORE</h2></span>
+          <p className="p_Lore">
+            Ambition and mischief are the two words that best describe Diana Yeou,
+            a princess who is half-wolf and half_fox. Born with nine tails that foretold of peace
+            and prosperity, it came as a surpise that she grew up playing pranks and laying traps instead
+            of doing her royal duties. No, Diana's ambitions grew beyond the kingdom. She wanted to become the 
+            greates prankster the world had ever known. But as she sat in the ashes and sudden taste of blood and smoke filling her lings 
+            as the fortress walls fell all around her, she begged for one more chance. It was the last thought 
+            in her mind before her yeyes closed, never to open again. Years past, she opened her eyes once more, to a world different than the one she 
+            remembered, a world with crystals screens and metal carriages. In this world, Dianna learned the marvelous internet, memes,
+             and of games. She gained a reputation for mischief, pranks and tricks 
+            feared in every game she tries her hand at. But soon she recieved a message from a certain little devil 
+            , eager to claim her prize... 
+          </p>
+          <p className="p_Lore">
+            Diana now found herself at the beck and call Nephilim "the Greed Devil", in exchange 
+            for saving her life. But it wasn't so bad~ For Diana had learned of the greatest prank that she could ever dream of, 
+            a prank so big in scale that it would etch her name in everyone's memory forever!
+          </p> 
+          <p className="p_Lore">
+            What bigger prank is there than taking over Hell itself?
+          </p> 
+    </Col>
+    <Container className="bottom_details_and_info" fluid>
+      
+          <Col className="details_and_info">
+            <p>
+              PERSONAL DETAILS:   <br></br>
+              Name: Diana Yeou    <br></br> 
+              Nickname:  Diana    <br></br>
+              Age:       999 years<br></br>
+              Gender:   Female    <br></br> 
+              Birthday: Feb 11    <br></br>
+              Height:   4'8       <br></br>
+              Race: Half-fox,Half wofl
+               and not a Cat or Dog nor Fish       <br></br>
+            </p>
+          </Col>
 
+          <Col className="details_and_info">
+            <p>
+            BASIC DETAILS:                                                                      <br></br>
+              Debut date: <span className="Yellow">10/9/2021</span>                             <br></br>
+              MAMA: <span className="law_tw_link" onClick={kurase_tw}>   @Kurase07      </span> <br></br>
+              PAPA: <span className="alph_tw_link" onClick={alph_tw}> @Alph_Alpha_Alph  </span> <br></br>
+              Affiliation:<br></br>
+               <span className="CLP_text">Crescent Link Productions</span>  <br></br>
+            </p>
+          </Col>
+
+          <Col className="details_and_info">
+             <p>
+              LIKES:                       <br></br>
+               Valorant                    <br></br>
+               Planet Uranus               <br></br>
+               Water                       <br></br>
+               <span className="forbidden"> Boys Love (BL)</span>    <br></br>
+              </p>
+          </Col>
+
+          <Col className="details_and_info">
+            <p>
+               DISLIKES:                      <br></br>
+               Valorant                       <br></br>
+               Micro Managed                  <br></br>
+               Lizards                        <br></br>
+               Cucumbers                      <br></br>
+               Distractions                   <br></br>
+               Her own Voice                  <br></br>
+            </p>
+          </Col>
+
+          <Col className="details_and_info">
+            <p>
+              TWITTER HASHTAGS:         <br></br>
+                Live:   #DoggoTime      <br></br>
+                Music:  n/a             <br></br>
+                Fanart: #DianaFart      <br></br>
+                Fan-name: Garapatas(?)  <br></br>
+            </p>
+          </Col>
+
+          <Col className="details_and_info">
+            <p>
+              SOCIAL MEDIA:  <br></br>
+              <span  onClick={open_twitter_dianna}>
+               <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" className="svg_twitter_i"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z" class=""></path></svg>
+                Twitter 
+              </span>
+               
+                 <br></br>
+
+              <span  onClick={open_yt_dianna}>
+               <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="youtube" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" className="svg_yt_i"><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z" class=""></path></svg>
+                Youtube  
+              </span>
+            </p>
+          </Col>
+
+        </Container>
+  </Row>
+
+  
+</Container>
 
 </div>
 <div className="Footer_text"><p className="footer_p">All Rights to CRESCENT LINK</p></div>
