@@ -333,3 +333,25 @@ body::-webkit-scrollbar-thumb {
   font-size: 16px;
   color: var(--clr-neon);
 }
+.p_yabai_level {
+  text-align: center;
+}
+.moderate {
+  color: yellow;
+}
+.degen {
+  transition: 0.2s;
+  opacity: 0;
+}
+.degen:hover {
+  opacity: 1;
+  color: transparent;
+
+  text-shadow: 0 0 0.125em hsl(0 0% 100% / 0.3), 0 0 0.45em red;
+}
+.high {
+  color: orange;
+}
+.very_high {
+  color: rgb(255, 102, 0);
+}

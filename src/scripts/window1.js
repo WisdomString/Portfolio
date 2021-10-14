@@ -127,8 +127,9 @@ The objective of this project is to accelerate the beginning
               or Adobo (another filipino food) with hotdog and soup. She also loves to play different games.
               She's mostly a boomer, and occasionally observed as a yaoi fan.
               She also burps and hics a lot.
+          
           </p>
-        
+          
           <span className="span_Lore"> <h2>LORE</h2></span>
           <p className="p_Lore">
              Haniel was one of the Seven Archangels, sometimes referred to as “the great princes and princesses” of Heaven.
@@ -147,7 +148,9 @@ The objective of this project is to accelerate the beginning
               Unfortunately, in order to survive in this new world one must eat, and in order to eat one must work.
               For the sake of survival, Haniel became a VTuber.
           </p> 
+          
     </Col>
+    <h4 className="p_yabai_level">Yabai Level: <span className="moderate">Moderate</span></h4>
     <Container className="bottom_details_and_info" fluid>
       
           <Col className="details_and_info">
@@ -232,7 +235,7 @@ The objective of this project is to accelerate the beginning
 </div>
 
 
-<div className="Nephilim_space" id="nephilim">
+<div className="Nephilim_space" id="nephilim"> 
 <Container className="hi">
 <Row>
     <Col  className="Side_bar_container">
@@ -267,51 +270,120 @@ The objective of this project is to accelerate the beginning
     </div>
     </Col>
     
-    <Col xs={6} fluid className="content_text">
-    <h2> Nephilim </h2>
-        <p>2 of 3 (wider also the main content)
-        Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
-        n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con
-        sequat anim commodo amet. Ut est id nulla non eiusmod exercitation quis id veniam exercitation amet su
-        nt non. Est in esse consequat ad in deserunt quis sunt qui cupidatat est velit. Lorem irure laboris su
-        nt ut et labore voluptate nisi exercitation ullamco et laborum. Dolor elit dolor esse esse non.
-        </p>
-        <p>2 of 3 (wider also the main content)
-        Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
-        n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con
-        sequat anim commodo amet. Ut est id nulla non eiusmod exercitation quis id veniam exercitation amet su
-        nt non. Est in esse consequat ad in deserunt quis sunt qui cupidatat est velit. Lorem irure laboris su
-        nt ut et labore voluptate nisi exercitation ullamco et laborum. Dolor elit dolor esse esse non.
-        </p>
-        <p>2 of 3 (wider also the main content)
-        Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
-        n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con
-        sequat anim commodo amet. Ut est id nulla non eiusmod exercitation quis id veniam exercitation amet su
-        nt non. Est in esse consequat ad in deserunt quis sunt qui cupidatat est velit. Lorem irure laboris su
-        nt ut et labore voluptate nisi exercitation ullamco et laborum. Dolor elit dolor esse esse non.
-        </p>
-        <p>2 of 3 (wider also the main content)
-        Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
-        n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con
-        sequat anim commodo amet. Ut est id nulla non eiusmod exercitation quis id veniam exercitation amet su
-        nt non. Est in esse consequat ad in deserunt quis sunt qui cupidatat est velit. Lorem irure laboris su
-        nt ut et labore voluptate nisi exercitation ullamco et laborum. Dolor elit dolor esse esse non.
-        </p>
-        <p>2 of 3 (wider also the main content)
-        Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
-        n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con
-        sequat anim commodo amet. Ut est id nulla non eiusmod exercitation quis id veniam exercitation amet su
-        nt non. Est in esse consequat ad in deserunt quis sunt qui cupidatat est velit. Lorem irure laboris su
-        nt ut et labore voluptate nisi exercitation ullamco et laborum. Dolor elit dolor esse esse non.
-        </p>
-        <p>2 of 3 (wider also the main content)
-        Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
-        n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con
-        sequat anim commodo amet. Ut est id nulla non eiusmod exercitation quis id veniam exercitation amet su
-        nt non. Est in esse consequat ad in deserunt quis sunt qui cupidatat est velit. Lorem irure laboris su
-        nt ut et labore voluptate nisi exercitation ullamco et laborum. Dolor elit dolor esse esse non.
-        </p>
+    
+   
+    <Col xs={6} fluid>
+    
+    
+    <span className="span_personality"> <h2>PERSONALITY</h2></span>
+      <p className="p_personality">
+      PRINCESS Nephilim is a playful, cheerful, wholesome predator demon (or angel) who likes to bully chat
+       while chat bullies her back. She's without doubt "boing boing", or at least, that's how she wants to
+        believe in. She also calls herself the "CEO of bonkers", but if you asked her stream witnesses and 
+        moderators, it's actually the other way around. Indeed, she is the "CEO of getting bonked".
+         She also have a questionable relation with Diana (the wolf princess). 
+         Witnesses stated that those two have a good chemistry with each other. It is believed that once they collab,
+          everything would go wrong (as of the time of making, no collabs were made).
+       She also seems to like boobas, especially Dulla's (the dullahan princess).
+      </p>
+    
+      <span className="span_Lore"> <h2>LORE</h2></span>
+      
+      <p className="p_Lore">
+      Nephilim, who roamed the 4th Circle of Hell, is a Greed Devil. 強欲の魔神. Nephi's greed knows no bounds, so it's only natural that she 
+      wanted to take over Hell for herself. The other devils did not appreciate this, banishing Nephi due to her greed that exceeded that of other 
+      devils. Normally, her attempt at a coup d'etat would be forgiven, but the other devils already had problems with Nephi's Greed. She would 
+      hide knowledge from others so that only she knew things and would often hoard items that fell into Hell from the human world. 
+      </p>
+      <p className="p_Lore">
+      After being banished, Nephi began looking for a way to satisfy her Greed in a way that couldn't be done in Hell. What better way to satisfy her Greed than to 
+      take over the world? If Nephi controlled the world, that would mean that everything
+       in it was hers. Since the top devil, Lucifer, also wishes to rule the world, Nephi realized
+       that she would need to be careful in order to beat him. Devils gain power by making pacts,
+       and the more people Nephi can charm the more pacts she can make. In order to gain a mass following, 
+      Nephi decided to become a VTuber in order to trick people into making pacts when they press "follow" or "subscribe."
+      
+      </p> 
+
+
     </Col>
+    <h4 className="p_yabai_level">Yabai Level: <span className="high">High</span></h4>
+    <Container className="bottom_details_and_info" fluid>
+      
+          <Col className="details_and_info">
+            <p>
+              PERSONAL DETAILS:   <br></br>
+              Name:     Nephilim  <br></br> 
+              Nickname:  Nephy    <br></br>
+              Age:       n/a      <br></br>
+              Gender:   Female    <br></br> 
+              Birthday: July 7    <br></br>
+              Height:   4'9ft     <br></br>
+            </p>
+          </Col>
+
+          <Col className="details_and_info">
+            <p>
+            BASIC DETAILS:                                                                       <br></br>
+              Debut date: <span className="Yellow">05/30/2021</span>                             <br></br>
+              MAMA: <span className="law_tw_link" onClick={law_tw}>   @LawNielleArt      </span> <br></br>
+              PAPA: <span className="alph_tw_link" onClick={alph_tw}> @Alph_Alpha_Alph   </span> <br></br>
+              Affiliation:<br></br>
+               <span className="CLP_text">Crescent Link Productions</span>  <br></br>
+            </p>
+          </Col>
+
+          <Col className="details_and_info">
+             <p>
+              LIKES:                       <br></br>
+               Doggos                      <br></br>
+               Hani                        <br></br>
+               Killing ppl (in games)      <br></br>
+               Nightsky                    <br></br>
+               Milk                        <br></br>
+               Playing Games               <br></br>
+              </p>
+          </Col>
+
+          <Col className="details_and_info">
+            <p>
+               DISLIKES:                    <br></br>
+               Spicy foods                  <br></br>
+               Thunder and Lightning        <br></br>
+               Losing in Games              <br></br>
+               Lucifer                      <br></br>
+               Being Alone                  <br></br>
+            </p>
+          </Col>
+
+          <Col className="details_and_info">
+            <p>
+              TWITTER HASHTAGS:          <br></br>
+                Live:   #NephilimLIVE    <br></br>
+                Music:  #NephiScreams    <br></br>
+                Fanart: #NephIllust      <br></br>
+                Fan-name: #Nephews <br></br> #甥っ子 (oi-kko)        <br></br>
+            </p>
+          </Col>
+
+          <Col className="details_and_info">
+            <p>
+              SOCIAL MEDIA:  <br></br>
+              <span  onClick={open_twitter_nephilim}>
+               <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" className="svg_twitter_i"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z" class=""></path></svg>
+                Twitter 
+              </span>
+               
+                 <br></br>
+
+              <span  onClick={open_yt_nephilim}>
+               <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="youtube" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" className="svg_yt_i"><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z" class=""></path></svg>
+                Youtube  
+              </span>
+            </p>
+          </Col>
+
+        </Container>
     
   </Row>
 </Container>
@@ -353,54 +425,131 @@ The objective of this project is to accelerate the beginning
     </Col>
     
     <Col xs={6} fluid>
-
-    <h2> Dulla Gan Ceann</h2>
-        <p>2 of 3 (wider also the main content)
-        Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
-        n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con
-        sequat anim commodo amet. Ut est id nulla non eiusmod exercitation quis id veniam exercitation amet su
-        nt non. Est in esse consequat ad in deserunt quis sunt qui cupidatat est velit. Lorem irure laboris su
-        nt ut et labore voluptate nisi exercitation ullamco et laborum. Dolor elit dolor esse esse non.
-        </p>
-        <p>2 of 3 (wider also the main content)
-        Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
-        n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con
-        sequat anim commodo amet. Ut est id nulla non eiusmod exercitation quis id veniam exercitation amet su
-        nt non. Est in esse consequat ad in deserunt quis sunt qui cupidatat est velit. Lorem irure laboris su
-        nt ut et labore voluptate nisi exercitation ullamco et laborum. Dolor elit dolor esse esse non.
-        </p>
-        <p>2 of 3 (wider also the main content)
-        Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
-        n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con
-        sequat anim commodo amet. Ut est id nulla non eiusmod exercitation quis id veniam exercitation amet su
-        nt non. Est in esse consequat ad in deserunt quis sunt qui cupidatat est velit. Lorem irure laboris su
-        nt ut et labore voluptate nisi exercitation ullamco et laborum. Dolor elit dolor esse esse non.
-        </p>
-        <p>2 of 3 (wider also the main content)
-        Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
-        n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con
-        sequat anim commodo amet. Ut est id nulla non eiusmod exercitation quis id veniam exercitation amet su
-        nt non. Est in esse consequat ad in deserunt quis sunt qui cupidatat est velit. Lorem irure laboris su
-        nt ut et labore voluptate nisi exercitation ullamco et laborum. Dolor elit dolor esse esse non.
-        </p>
-        <p>2 of 3 (wider also the main content)
-        Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
-        n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con
-        sequat anim commodo amet. Ut est id nulla non eiusmod exercitation quis id veniam exercitation amet su
-        nt non. Est in esse consequat ad in deserunt quis sunt qui cupidatat est velit. Lorem irure laboris su
-        nt ut et labore voluptate nisi exercitation ullamco et laborum. Dolor elit dolor esse esse non.
-        </p>
-        <p>2 of 3 (wider also the main content)
-        Cillum Lorem dolor Lorem in enim duis qui nostrud in anim nulla. Ipsum est mollit ullamco culpa nisi i
-        n commodo sunt consectetur elit voluptate est labore. Magna laborum ad consequat officia sint quis con
-        sequat anim commodo amet. Ut est id nulla non eiusmod exercitation quis id veniam exercitation amet su
-        nt non. Est in esse consequat ad in deserunt quis sunt qui cupidatat est velit. Lorem irure laboris su
-        nt ut et labore voluptate nisi exercitation ullamco et laborum. Dolor elit dolor esse esse non.
-        </p>
-    </Col>
     
+    
+    <span className="span_personality"> <h2>PERSONALITY</h2></span>
+      <p className="p_personality">
+      1 week observation
+      </p>
+    
+      <span className="span_Lore"> <h2>LORE</h2></span>
+      
+      <p className="p_Lore">
+      During the late Edo period, on a small village was a well said to be connected to another world. 
+      Dulha, who was hiding that she was a Dullahan lived in that village, which also had an ancient custom. 
+      If an item was believed to be cursed, it was to be thrown down the well. 
+      In exchange, a similar item would be found in the well the next day.
+      One day, a villager caught her headless and rallied the village to capture her and bring her to the well. 
+      Right before they pushed her in, one villager suggested they throw her head in and see what would happen. 
+      Dulha could only close her eyes as she fell into the well and sunk to the depths... 
+      but when she opened her eyes again she was surrounded by cars and buildings which she had never seen before. 
+      A nearby body rested without a head inside of an upside-down car, so she claimed it as her own. 
+      This body was a lot bustier than her old one, which pleased her greatly.</p>
+      <p className="p_Lore">
+      As she fled the scene of an accident in her new body, Dulha decided this was a chance to live a new life. She eventually found her way to the 
+      apartment belonging to her new body's old owner and decided to live life as her instead. Little did she know, she was taking over the life of a
+      VTber..
+      </p> 
+
+
+    </Col>
+    <h4 className="p_yabai_level">Yabai Level: <span className="very_high">Very High</span></h4>
   </Row>
+  <Container className="bottom_details_and_info" fluid>
+      
+          <Col className="details_and_info">
+            <p>
+              PERSONAL DETAILS:           <br></br>
+              Name: Dulla gan Ceann       <br></br> 
+              Nickname:  Dulla            <br></br>
+              Age:       idk how to count <br></br>
+              Gender:   Female            <br></br> 
+              Birthday: Sept 2            <br></br>
+              Height:                     <br></br>
+              6'0 (Head on)               <br></br> 
+              5'4 (Head off)
+              
+            </p>
+          </Col>
+          <Col className="details_and_info">
+            <p>
+              Skills and Abilities           <br></br>
+              -Detachable Head               <br></br> <br></br>
+              -Can open every barrier        <br></br><br></br>
+              -Can kill someone              <br></br>
+              by calling their name          <br></br>
+            </p>
+          </Col>
+
+          <Col className="details_and_info">
+            <p>
+            BASIC DETAILS:                                                                      <br></br>
+              Debut date: <span className="Yellow">10/10/2021</span>                            <br></br>
+              MAMA: <span className="law_tw_link" onClick={law_tw}>   @LawNielleArt      </span><br></br>
+              PAPA: <span className="alph_tw_link" onClick={alph_tw}> @Alph_Alpha_Alph  </span> <br></br>
+              Affiliation:<br></br>
+               <span className="CLP_text">Crescent Link Productions</span>  <br></br>
+            </p>
+          </Col>
+
+          <Col className="details_and_info">
+             <p>
+              LIKES:                      <br></br>
+               MELON                      <br></br>
+               Boba                       <br></br>
+               Drawing                    <br></br>
+               Cooking                    <br></br>
+               Music                      <br></br>
+               Cats                       <br></br>
+               Sneks                      <br></br>
+              </p>
+          </Col>
+
+          <Col className="details_and_info">
+            <p>
+               DISLIKES:                    <br></br>
+               League of Legends            <br></br>
+               Letter 'R'                   <br></br>
+               League of Legends            <br></br>
+               Coffee                       <br></br>
+               Soft Drinks                  <br></br>
+               League of Legends            <br></br>
+               Wordy Games                  <br></br>
+               League of Legends            <br></br>
+               Motion Blur                  <br></br>
+            </p>
+          </Col>
+
+          <Col className="details_and_info">
+            <p>
+              TWITTER HASHTAGS:         <br></br>
+                Live:   #DullaLIVE      <br></br>
+                Music:  #DullaNOISE     <br></br>
+                Fanart: #DullaIllust    <br></br>
+                Fan-name: <br></br>Melon-Heads   
+            </p>
+          </Col>
+
+          <Col className="details_and_info">
+            <p>
+              SOCIAL MEDIA:  <br></br>
+              <span  onClick={open_twitter_dulla}>
+               <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" className="svg_twitter_i"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z" class=""></path></svg>
+                Twitter 
+              </span>
+               
+                 <br></br>
+
+              <span  onClick={open_yt_dulla}>
+               <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="youtube" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" className="svg_yt_i"><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z" class=""></path></svg>
+                Youtube  
+              </span>
+            </p>
+          </Col>
+
+        </Container>
 </Container>
+
 </div>
 
 <div className="Dianna_space" id="dianna">
@@ -445,7 +594,7 @@ The objective of this project is to accelerate the beginning
     
         <span className="span_personality"> <h2>PERSONALITY</h2></span>
           <p className="p_personality">
-             (...)
+             1 week observation
           </p>
         
           <span className="span_Lore"> <h2>LORE</h2></span>
@@ -471,6 +620,7 @@ The objective of this project is to accelerate the beginning
             What bigger prank is there than taking over Hell itself?
           </p> 
     </Col>
+    <h4 className="p_yabai_level">Yabai Level: <span className="degen"> ̴͚͔͎̏͋͘ ̵̧͚́̾̎̾̒R̸̨͙͔̻͑̍̉̋͘E̵̡̦̥͓̞̒̌͊͜D̷̢̛̬̦̦̀̀̑̂̈́A̸͚̳̭̦̞̮̮̍̀̉̃̐̋͠Ç̷͖̳̝̩͍͑̀̅̿̒̉͂ͅṪ̶̨͓͓̤͖͑̔̈͘͝͠E̵̜̱̒͋D̶̟̺͕͐͛͌̉ͅ ̵̧̥̹͈̭͊ ̷̤̐ ̴̙͓̭̩̳̈͆̆͐͑ </span></h4>
     <Container className="bottom_details_and_info" fluid>
       
           <Col className="details_and_info">
@@ -482,7 +632,7 @@ The objective of this project is to accelerate the beginning
               Gender:   Female    <br></br> 
               Birthday: Feb 11    <br></br>
               Height:   4'8       <br></br>
-              Race: Half-fox,Half wofl
+              Race: Half-fox,Half wofl             <br></br>
                and not a Cat or Dog nor Fish       <br></br>
             </p>
           </Col>
