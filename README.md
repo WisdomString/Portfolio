@@ -1,4 +1,3 @@
-# OK na meg, gana na
 
 ## Available Scripts
 
